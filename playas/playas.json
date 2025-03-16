@@ -1,0 +1,155 @@
+{
+    "playas": [
+      {
+        "imagen":"https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSsEgGDtay7yynbtJCdRRvuLW0dWTzG3_BDf36Vo0flnkq7E_BJpr3-EclLGqYfPhIn-REwJqGs0lcfgpU6M34pYibADP7HTCHvX9jwZA" ,
+        "nombre": "Playa del Carmen",
+        "ubicacion": {
+          "pais": "México",
+          "estado": "Quintana Roo",
+          "coordenadas": {
+            "latitud": 20.6296,
+            "longitud": -87.0739
+          }
+        },
+        "tipo": "arena blanca",
+        "temperatura_promedio": 27,
+        "actividades": ["buceo", "surf", "snorkel", "paseos en bote"],
+        "servicios": {
+          "restaurantes": true,
+          "alojamiento": true,
+          "alquiler_de_sillas": true,
+          "baños_publicos": true
+        }
+      },
+      {
+        "imagen":"https://a.travel-assets.com/findyours-php/viewfinder/images/res70/191000/191330-Rio-De-Janeiro.jpg",
+        "nombre": "Copacabana",
+        "ubicacion": {
+          "pais": "Brasil",
+          "estado": "Río de Janeiro",
+          "coordenadas": {
+            "latitud": -22.9711,
+            "longitud": -43.1822
+          }
+        },
+        "tipo": "arena dorada",
+        "temperatura_promedio": 26,
+        "actividades": ["voleibol", "surf", "paseos en bicicleta", "parapente"],
+        "servicios": {
+          "restaurantes": true,
+          "alojamiento": true,
+          "alquiler_de_sillas": true,
+          "baños_publicos": true
+        }
+      },
+      {
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaE_LjnyoColaqp55fbkDTRvjYggJXriZQDg&s",
+        "nombre": "Waikiki Beach",
+        "ubicacion": {
+          "pais": "Estados Unidos",
+          "estado": "Hawái",
+          "coordenadas": {
+            "latitud": 21.2766,
+            "longitud": -157.8270
+          }
+        },
+        "tipo": "arena dorada",
+        "temperatura_promedio": 28,
+        "actividades": ["surf", "natación", "paseos en bote", "esquí acuático"],
+        "servicios": {
+          "restaurantes": true,
+          "alojamiento": true,
+          "alquiler_de_sillas": true,
+          "baños_publicos": true
+        }
+      },
+      {
+        "imagen":"https://oceanswims.com/wp-content/uploads/2023/07/swim-guide-bondi-beach-0627.jpg",
+        "nombre": "Bondi Beach",
+        "ubicacion": {
+          "pais": "Australia",
+          "estado": "Nueva Gales del Sur",
+          "coordenadas": {
+            "latitud": -33.8915,
+            "longitud": 151.2767
+          }
+        },
+        "tipo": "arena dorada",
+        "temperatura_promedio": 22,
+        "actividades": ["surf", "natación", "paseos en bote", "yoga en la playa"],
+        "servicios": {
+          "restaurantes": true,
+          "alojamiento": true,
+          "alquiler_de_sillas": true,
+          "baños_publicos": true
+        }
+        
+      },
+      {
+        "imagen":"https://c.files.bbci.co.uk/B665/production/_105739664_2.beach_bbc_jonathan_head.jpg",
+        "nombre": "Maya Bay",
+        "ubicacion": {
+          "pais": "Tailandia",
+          "estado": "Phi Phi Islands",
+          "coordenadas": {
+            "latitud": 7.6778,
+            "longitud": 98.7654
+          }
+        },
+        "tipo": "arena blanca",
+        "temperatura_promedio": 30,
+        "actividades": ["buceo", "snorkel", "kayak", "fotografía"],
+        "servicios": {
+          "restaurantes": false,
+          "alojamiento": false,
+          "alquiler_de_sillas": false,
+          "baños_publicos": false
+        }
+       
+      },
+      {
+        "imagen":"https://cache.marriott.com/content/dam/marriott-renditions/BOBXR/bobxr-exterior-aerialview-1580-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=2880px:*",
+        "nombre": "Bora Bora",
+        "ubicacion": {
+          "pais": "Polinesia Francesa",
+          "estado": "Islas de la Sociedad",
+          "coordenadas": {
+            "latitud": -16.5004,
+            "longitud": -151.7415
+          }
+        },
+        "tipo": "arena blanca",
+        "temperatura_promedio": 29,
+        "actividades": ["buceo", "snorkel", "paseos en catamarán", "relajación"],
+        "servicios": {
+          "restaurantes": true,
+          "alojamiento": true,
+          "alquiler_de_sillas": true,
+          "baños_publicos": false
+        }
+        
+      },
+      {
+        "imagen":"https://tulumairportt.com/wp-content/uploads/2023/12/tulum-playa-paraiso-beach.webp",
+        "nombre": "Playa Paraiso",
+        "ubicacion": {
+          "pais": "México",
+          "estado": "Quintana Roo",
+          "coordenadas": {
+            "latitud": 20.2093,
+            "longitud": -87.4656
+          }
+        },
+        "tipo": "arena blanca",
+        "temperatura_promedio": 28,
+        "actividades": ["snorkel", "buceo", "natación", "relajación"],
+        "servicios": {
+          "restaurantes": true,
+          "alojamiento": true,
+          "alquiler_de_sillas": true,
+          "baños_publicos": true
+        }
+        
+      }
+    ]
+  }
