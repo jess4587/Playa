@@ -1,0 +1,72 @@
+[
+  {
+      "nombre": "Playa del Carmen",
+      "imagen": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSsEgGDtay7yynbtJCdRRvuLW0dWTzG3_BDf36Vo0flnkq7E_BJpr3-EclLGqYfPhIn-REwJqGs0lcfgpU6M34pYibADP7HTCHvX9jwZA",
+      "pais": "México",
+      "estado": "Quintana Roo",
+      "descripcion": "Una de las playas más famosas de México, conocida por su arena blanca y aguas cristalinas."
+  },
+  {
+      "nombre": "Copacabana",
+      "imagen": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/191000/191330-Rio-De-Janeiro.jpg",
+      "pais": "Brasil",
+      "estado": "Río de Janeiro",
+      "descripcion": "Una de las playas más icónicas del mundo, famosa por su animada vida nocturna y su extensa franja de arena dorada."
+  },
+  {
+      "nombre": "Waikiki Beach",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaE_LjnyoColaqp55fbkDTRvjYggJXriZQDg&s",
+      "pais": "Estados Unidos",
+      "estado": "Hawái",
+      "descripcion": "Una playa emblemática de Hawái, conocida por sus olas perfectas para el surf y su ambiente relajado."
+  },
+  {
+      "nombre": "Bondi Beach",
+      "imagen": "https://oceanswims.com/wp-content/uploads/2023/07/swim-guide-bondi-beach-0627.jpg",
+      "pais": "Australia",
+      "estado": "Nueva Gales del Sur",
+      "descripcion": "Una de las playas más famosas de Australia, ideal para el surf y actividades al aire libre."
+  },
+  {
+      "nombre": "Maya Bay",
+      "imagen": "https://c.files.bbci.co.uk/B665/production/_105739664_2.beach_bbc_jonathan_head.jpg",
+      "pais": "Tailandia",
+      "estado": "Phi Phi Islands",
+      "descripcion": "Una playa paradisíaca famosa por su aparición en la película 'La Playa', con aguas cristalinas y paisajes impresionantes."
+  },
+  {
+      "nombre": "Bora Bora",
+      "imagen": "https://cache.marriott.com/content/dam/marriott-renditions/BOBXR/bobxr-exterior-aerialview-1580-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=2880px:*",
+      "pais": "Polinesia Francesa",
+      "estado": "Islas de la Sociedad",
+      "descripcion": "Un destino de ensueño con aguas turquesas y bungalows sobre el mar, perfecto para la relajación y el buceo."
+  },
+  {
+      "nombre": "Playa Paraiso",
+      "imagen": "https://tulumairportt.com/wp-content/uploads/2023/12/tulum-playa-paraiso-beach.webp",
+      "pais": "México",
+      "estado": "Quintana Roo",
+      "descripcion": "Una playa tranquila y hermosa, ideal para relajarse y disfrutar de la naturaleza."
+  },
+  {
+      "nombre": "Ibiza",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9zUelDALEvXY9omWVFf92wNVG1kfNCzB9Kg&s",
+      "pais": "España",
+      "estado": "Islas Baleares",
+      "descripcion": "Famosa por sus playas de arena blanca y su vibrante vida nocturna, es un destino turístico muy popular."
+  },
+  {
+      "nombre": "Maldives",
+      "imagen": "https://www.lanacion.com.py/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Flanacionpy%2FYC343SOFSRAG5FPLPMKLQJL37U.jpg?auth=b0ec0abf6dad87ac04da1ba9d1bf9eb4fecdfba6b7c0d3ac2277630318e64f17&width=1000&smart=true",
+      "pais": "Maldivas",
+      "estado": "Malé",
+      "descripcion": "Conocida por sus playas de arena blanca y aguas cristalinas, es un destino ideal para la relajación y el buceo."
+  },
+  {
+      "nombre": "Santorini",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvwEaV8htkAswkkPfEFWQUZErhjYh4--3OaQ&s",
+      "pais": "Grecia",
+      "estado": "Egeo Meridional",
+      "descripcion": "Famosa por sus playas de arena volcánica y sus impresionantes vistas al mar Egeo, es un destino romántico y pintoresco."
+  }
+]
