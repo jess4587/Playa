@@ -1,0 +1,41 @@
+[
+    {
+        "Nombre": "Nombre: Kimono",
+        "imagen": "",
+        "País": "País: Japón",
+        "Categoría": "Categoría: Tradicional",
+        "Descripción": "Descripción: Vestimenta tradicional japonesa con mangas anchas y tela decorativa."
+    },
+    
+    {
+        "Nombre": "Nombre: Sari",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVGdwj6IzfDDMFZmgnZB2NlOR8qLbAXpKrZw&s",
+        "País": "País: India",
+        "Categoría": "Categoría: Vestido",
+        "Descripción": "Descripción: Prenda tradicional india, una pieza larga de tela envuelta elegantemente alrededor del cuerpo."
+    },
+    {
+        "Nombre": "Nombre: Chaqueta de cuero",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyFmvxLC_Z7V9WzTK96r8fifHs8Sk2jSTodw&s",
+        "País": "País: Italia",
+        "Categoría": "Categoría: Abrigo",
+        "Descripción": "Descripción: Elegante chaqueta de cuero, un ícono de la moda con un estilo rebelde y sofisticado."
+    },
+    {
+        "Nombre": "Nombre: Sombrero Panamá",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRghafUi_XTTukVlV6Xma2T2iFlFk9q4oWyZQ&s",
+        "País": "País: Ecuador",
+        "Categoría": "Categoría: Accesorio",
+        "Descripción": "Descripción: Sombrero ligero de paja, ideal para protegerse del sol con estilo."
+    },
+    {
+        "Nombre": "Nombre: Zapatillas deportivas",
+        "imagen": "https://images-cdn.ubuy.do/658fe9481aa2e62edf0514ae-zapatillas-de-mujer-deportivas-tenis.jpg",
+        "País": "País: Alemania",
+        "Categoría": "Categoría: Calzado",
+        "Descripción": "Descripción: Calzado cómodo y resistente, diseñado para la actividad física y el día a día."
+    }
+   
+   
+  ]
+  
